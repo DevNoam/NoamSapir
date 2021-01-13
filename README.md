@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noam Sapir</h1>
 <h3 align="center">17 years old Indie game developer from Israel</h3>
 
-- 🔭 I’m currently working on **Virtual world multiplayer game**
+- 🔭 I’m currently working on **Virtual world multiplayer game for web**
 
 - 🌱 I’m currently learning **Full stack .Net development**
 
