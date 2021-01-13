@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Unity game development**
 
-- 🤝 I’m looking for help with **Game development**
-
 - 💬 Ask me about **GameDev, 3D Modeling and art**
 
 - 📫 How to reach me **noam1sapir@gmail.com**
