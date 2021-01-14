@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Noam Sapir</h1>
+<h1 align="center">Hi 👋, my name is Noam</h1>
 <h3 align="center">17 years old Indie game developer from Israel</h3>
 
 - 🔭 I’m currently working on **Virtual world multiplayer game for web**
