@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, my name is Noam</h1>
 <h3 align="center">Teenage Indie game developer</h3>
 
-- 🔭 I’m currently working on **Virtual world multiplayer for web**
+- 🔭 I’m currently working on **Virtual world game for Web**
 
-- 🌱 I’m currently learning **Full .Net development**
+- 🌱 I’m currently learning **Full stack .Net development**
 
 - 👯 I’m looking to collaborate on **Game development**
 
