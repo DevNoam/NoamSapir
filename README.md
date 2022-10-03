@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **GameDev, 3D Art & Music 🎸**
 
-- 📫 How to reach me **noam1sapir@gmail.com**
+- 📫 How to reach me **contact@noamsapr.me**
 
 
 <h3 align="left">Languages and Tools:</h3>
