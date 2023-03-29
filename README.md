@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Noam</h1>
 <h3 align="center">Generalist game developer</h3>
 
-- 🔭 I’m currently working on a game called **Chulu**
-
-- 🌱 I’m currently learning **Shaders and Game theory**
-
-- 👯 I’m looking to collaborate on **Game development**
-
 - 💬 Ask me about **GameDev, 3D Art & Music 🎸**
 
 - 📫 How to reach me **contact@noamsapr.me**
